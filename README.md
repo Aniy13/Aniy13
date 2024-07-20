@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/aniy__13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniy__13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-chopade-6506b8233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-chopade-6506b8233" height="30" width="40" /></a>
 <a href="https://instagram.com/aniiy13_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniiy13_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniket_22110364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniket_22110364" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniyket13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniyket13" height="30" width="40" /></a>
 </p>
 
