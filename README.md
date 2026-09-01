@@ -65,5 +65,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-
+<p align="center">
+  <img src="./assets/contributions.png" alt="GitHub Contributions" width="900">
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniy13&show_icons=true&locale=en&layout=compact" alt="aniy13" /></p>
